@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/root/images">
+        <file>images/Arch.png</file>
+        <file>images/4.ico</file>
+        <file>images/Power.ico</file>
+    </qresource>
+</RCC>
